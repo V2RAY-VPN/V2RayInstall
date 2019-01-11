@@ -1,2 +1,2 @@
-# V2RayInstall
-V2RayInstall
+# V2RayOnekeyInstall
+V2RayOnekeyInstall
