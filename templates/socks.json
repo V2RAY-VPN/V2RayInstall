@@ -1,0 +1,16 @@
+        {
+            "protocol": "socks",
+            "port": 6666, // port
+            "settings": {
+                "auth": "password",
+                "accounts": [
+                    {
+                        "user": "test.com", // username
+                        "pass": "test.com" // passowrd
+                    }
+                ],
+                "udp": true,
+                "timeout": 0,
+                "userLevel": 1
+            }
+        }
